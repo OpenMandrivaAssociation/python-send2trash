@@ -5,7 +5,7 @@
 
 Name:           python-%{pypi_name}
 Version:        1.5.0
-Release:        2
+Release:        3
 Summary:        Serialization based on ast.literal_eval
 
 License:        MIT
